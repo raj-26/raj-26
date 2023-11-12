@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raj-26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in flutter development.
+- 🌱 I’m currently learning flutter full stack
+- 💞️ I’m looking to collaborate on flutter projects.
 - 📫 How to reach me adityarajparashar5@gmail.com
 
 <!---
